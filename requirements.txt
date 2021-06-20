@@ -1,0 +1,4 @@
+httpx
+lxml
+beautifulsoup4
+pytest
